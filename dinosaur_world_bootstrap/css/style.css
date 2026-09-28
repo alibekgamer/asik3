@@ -1,0 +1,10 @@
+/* Only theme colors and fixed sizes. All spacing uses Bootstrap utilities. */
+.hero-dino { width: 280px; height: 280px; font-size: 9rem; background: #d9e5c6; }
+.tile { height: 190px; font-size: 4.5rem; }
+.tile.slide { height: 340px; font-size: 9rem; }
+.tile.thumb { height: 140px; font-size: 3.5rem; }
+.t1 { background: #e2c5a1; } .t2 { background: #c6d8ad; } .t3 { background: #d9c5b5; }
+.t4 { background: #b9d8d0; } .t5 { background: #d9e5c6; } .t6 { background: #f0d9a1; }
+.t7 { background: #cbb9d8; } .t8 { background: #b9c9d8; } .t9 { background: #d8c9b9; }
+.carousel-caption { bottom: 2.5rem; }
+@media (max-width: 575.98px) { .hero-dino { width: 200px; height: 200px; font-size: 6rem; } .tile.slide { height: 240px; font-size: 6rem; } }
